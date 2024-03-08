@@ -26,7 +26,6 @@
 .title__content {
   color: #ffffff;
   font-family: Montserrat;
-  font-family: Montserrat;
   font-size: 68px;
   font-weight: 700;
   line-height: 78px;
@@ -61,7 +60,7 @@
   letter-spacing: 0px;
   text-align: left;
 }
-.title2__ss1 {
+.title2__link1 {
   font-family: Montserrat;
   font-size: 18px;
   font-weight: 700;
@@ -69,7 +68,15 @@
   letter-spacing: 0px;
   text-align: left;
   color: #ffffff;
-  text-decoration: none;
+}
+.title2__link2 {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
 }
 
 .menu__game {
@@ -84,7 +91,7 @@
   height: 300px;
   border-radius: 18px;
 }
-.menu__ss {
+.menu__link {
   font-family: Montserrat;
   font-size: 24px;
   font-weight: 600;
