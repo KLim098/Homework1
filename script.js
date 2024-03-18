@@ -9,15 +9,15 @@ const firstReleaseIPhone = "Год выпуска первого айфона 20
 alert(firstReleaseIPhone);
 
 // Задание 3
-const NameDevoloer = "разработчик JavaScript Брендан Эйх";
-alert(NameDevoloer);
+const nameDevoloer = "разработчик JavaScript Брендан Эйх";
+alert(nameDevoloer);
 
 // Задание 4
-let number1 = 10, namber2 = 2;
-alert(number1 + namber2)
-alert(number1 - namber2)
-alert(number1 * namber2)
-alert(number1 / namber2)
+let number1 = 10, number2 = 2;
+alert(number1 + number2)
+alert(number1 - number2)
+alert(number1 * number2)
+alert(number1 / number2)
 
 // Задание 5
 let result = 2**5;
@@ -40,7 +40,8 @@ num--;
 alert(num);
 
 // Задание 8
-let age = prompt("Сколько вам лет?");
+let age = prompt("Сколько вам лет?")
+alert (age)
 
 // Задание 9
 let user = {
